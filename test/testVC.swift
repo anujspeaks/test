@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  testVC.swift
 //  test
 //
 //  Created by Anuj2 Nigam on 02/08/21.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class testVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
